@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{427AA586-3247-4226-A0E2-0330BAF821F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OOPractice Status">
+    <Files>
+      <File FileName="Program.cs" Line="13" Column="6" />
+      <File FileName="Person.cs" Line="38" Column="18" />
+      <File FileName="Employee.cs" Line="55" Column="5" />
+      <File FileName="Cashier.cs" Line="6" Column="5" />
+      <File FileName="OOPractice Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OOPractice PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

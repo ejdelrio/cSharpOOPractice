@@ -1,0 +1,5 @@
+/Users/Eddie/projects/cSharpOOPractice.git/OOPractice/bin/Debug/OOPractice.exe
+/Users/Eddie/projects/cSharpOOPractice.git/OOPractice/bin/Debug/OOPractice.pdb
+/Users/Eddie/projects/cSharpOOPractice.git/OOPractice/obj/x86/Debug/OOPractice.csproj.CoreCompileInputs.cache
+/Users/Eddie/projects/cSharpOOPractice.git/OOPractice/obj/x86/Debug/OOPractice.exe
+/Users/Eddie/projects/cSharpOOPractice.git/OOPractice/obj/x86/Debug/OOPractice.pdb
